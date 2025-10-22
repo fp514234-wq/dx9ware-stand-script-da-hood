@@ -1,5 +1,5 @@
 getgenv().ScriptSettings = {
-    MainAccount = "XxLeviLegendxX26",  -- Main account username
+    MainAccount = "astricmyx",  -- Main account username
     Configs = {
         Prefix = ".",  ---REMEMBER THIS PREFIX
         Mask = "ninja", 
@@ -65,6 +65,7 @@ getgenv().ScriptCommands = {
     ["Multi Kill Add"] = "mkill",
     ["Start Multi Kill"] = "skill",
     ["Clear Multi Kill"] = "ckill",
-    ["Loop Gun Multi Player"] = "slgkill",
+    ["Loop Gun Multi Player"] = "slgkill"
+} -- <<<<<< Faltava fechar aqui!
 
 loadstring(dx9.Get("https://raw.githubusercontent.com/fp514234-wq/dx9ware-stand-script-da-hood/main/stand.lua.txt"))()
