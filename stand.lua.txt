@@ -69,4 +69,4 @@ getgenv().ScriptCommands = {
 }
 
 -- Carregue o stand pelo dx9ware:
-loadstring(dx9.Get("https://raw.githubusercontent.com/yuvic123/Skidov1.2-stand/main/Skidov1.3-Stand"))()
+loadstring(dx9.Get("https://raw.githubusercontent.com/fp514234-wq/dx9ware-stand-script-da-hood/refs/heads/main/stand.lua.txt"))()
