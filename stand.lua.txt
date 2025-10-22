@@ -66,5 +66,3 @@ getgenv().ScriptCommands = {
     ["Start Multi Kill"] = "skill",
     ["Clear Multi Kill"] = "ckill",
     ["Loop Gun Multi Player"] = "slgkill",
-}
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yuvic123/Skidov1.2-stand/refs/heads/main/Skidov1.3-Stand"))()
