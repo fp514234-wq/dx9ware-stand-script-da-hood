@@ -66,3 +66,5 @@ getgenv().ScriptCommands = {
     ["Start Multi Kill"] = "skill",
     ["Clear Multi Kill"] = "ckill",
     ["Loop Gun Multi Player"] = "slgkill",
+
+loadstring(dx9.Get("https://raw.githubusercontent.com/fp514234-wq/dx9ware-stand-script-da-hood/main/stand.lua.txt"))()
